@@ -147,7 +147,7 @@ Subtle implications often involved the use of formal language, positive phrasing
 
 Stylistic features included formal tone, positive language, and the use of phrases that convey a sense of cooperation and shared goals.
 
-## 5. Conclusion
+## 4. Conclusion
 
 This analysis of Chinadaily's portrayal of ally Pakistan and rival Sweden reveals distinct editorial strategies. Thematically, articles on **Pakistan heavily emphasized economic cooperation and development**, particularly the Belt and Road Initiative. In contrast, **Sweden's coverage focused more on global issues, science, and sports.**
 
