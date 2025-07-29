@@ -4,7 +4,7 @@ This README summarizes the analysis of news articles from Chinadaily concerning 
 
 ## 1. Introduction
 
-This analysis aims to understand how Chinadaily, an English-language daily newspaper owned by the Publicity Department of the Chinese Communist Party, portrays Sweden and Pakistan. The project focuses on thematic structures, sentiment, and rhetorical patterns within the news articles.
+This analysis aims to understand how Chinadaily, an English-language daily newspaper owned by the Publicity Department of the Chinese Communist Party, portrays Sweden and Pakistan. The project focuses on thematic structures, sentiment, and rhetorical patterns within the news articles. The motivation for comparing narratives about an ally country (Pakistan) and a perceived "enemy" or rival (Sweden) is to illuminate the mechanisms of state-sponsored media in shaping public opinion and international perceptions, revealing how such media constructs favorable views of an ally and critical views of a perceived adversary.
 
 ## 2. Datasets
 
