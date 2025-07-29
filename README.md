@@ -147,7 +147,13 @@ Subtle implications often involved the use of formal language, positive phrasing
 
 Stylistic features included formal tone, positive language, and the use of phrases that convey a sense of cooperation and shared goals.
 
-## 4. Limitations
+## 5. Conclusion
+
+This analysis of Chinadaily's portrayal of ally Pakistan and rival Sweden reveals distinct editorial strategies. Thematically, articles on **Pakistan heavily emphasized economic cooperation and development**, particularly the Belt and Road Initiative. In contrast, **Sweden's coverage focused more on global issues, science, and sports.**
+
+While sentiment analysis showed a slightly more positive tone for Sweden, this should be considered within the context of official news. Crucially, rhetorical analysis highlighted a **prevalent emphasis on 'economic cooperation' and 'development' in Pakistan's narrative**, reinforcing its allied status. However, Pakistan's coverage also touched upon more complex topics like 'terrorism', indicating a nuanced, though generally positive, portrayal that differs significantly from Sweden's. Chinadaily thus tailors its narratives to reflect geopolitical relationships and strategic communication goals.
+
+## 5. Limitations
 
 The project identified several limitations:
 * **Keyword Choice:** General keywords can lead to oversampling or trigger articles not directly about the subject.
